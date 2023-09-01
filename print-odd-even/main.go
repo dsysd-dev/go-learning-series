@@ -12,6 +12,7 @@ func main() {
 		for {
 			select {
 			case <-oc:
+
 			case <-ec:
 			}
 		}
